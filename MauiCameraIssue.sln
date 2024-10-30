@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MauiCameraIssue", "MauiCameraIssue\MauiCameraIssue.csproj", "{625DA9C6-7EEA-4393-838A-AADCD5E81119}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MauiUrlIssue", "MauiUrlIssue\MauiUrlIssue.csproj", "{96D4D81B-0ACC-480D-BCCA-6D2D0C183CDB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -8,9 +8,9 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{625DA9C6-7EEA-4393-838A-AADCD5E81119}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{625DA9C6-7EEA-4393-838A-AADCD5E81119}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{625DA9C6-7EEA-4393-838A-AADCD5E81119}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{625DA9C6-7EEA-4393-838A-AADCD5E81119}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96D4D81B-0ACC-480D-BCCA-6D2D0C183CDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96D4D81B-0ACC-480D-BCCA-6D2D0C183CDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96D4D81B-0ACC-480D-BCCA-6D2D0C183CDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96D4D81B-0ACC-480D-BCCA-6D2D0C183CDB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
